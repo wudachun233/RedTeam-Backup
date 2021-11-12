@@ -1,4 +1,4 @@
-![](https://socialify.git.ci/0x0021h/RedTeam-Backup/image?description=1&forks=1&issues=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![[object Object]](https://socialify.git.ci/0x0021h/RedTeam-Backup/image?description=1&issues=1&name=1&pattern=Brick%20Wall&stargazers=1&theme=Light)
 ### 備份
 [內核驅動 - 用於鍵盤記錄](https://github.com/0x0021h/RedTeam-Backup/blob/main/KL-Kernel-Project-master.zip)
 
